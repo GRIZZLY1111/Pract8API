@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract8\\Pract8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4903D428-6D8A-4CA0-AE84-D68579DAC5D7}|Pract8\\Pract8.csproj|c:\\users\\admin\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo\\pract8\\pract8\\pract8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4903D428-6D8A-4CA0-AE84-D68579DAC5D7}|Pract8\\Pract8.csproj|solutionrelative:pract8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4903D428-6D8A-4CA0-AE84-D68579DAC5D7}|Pract8\\Pract8.csproj|c:\\users\\admin\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo\\pract8\\pract8\\pract8\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4903D428-6D8A-4CA0-AE84-D68579DAC5D7}|Pract8\\Pract8.csproj|solutionrelative:pract8\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4903D428-6D8A-4CA0-AE84-D68579DAC5D7}|Pract8\\Pract8.csproj|c:\\users\\admin\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo\\pract8\\pract8\\pract8\\models\\tokendbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4903D428-6D8A-4CA0-AE84-D68579DAC5D7}|Pract8\\Pract8.csproj|solutionrelative:pract8\\models\\tokendbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4903D428-6D8A-4CA0-AE84-D68579DAC5D7}|Pract8\\Pract8.csproj|c:\\users\\admin\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo\\pract8\\pract8\\pract8\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4903D428-6D8A-4CA0-AE84-D68579DAC5D7}|Pract8\\Pract8.csproj|solutionrelative:pract8\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4903D428-6D8A-4CA0-AE84-D68579DAC5D7}|Pract8\\Pract8.csproj|c:\\users\\admin\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo\\pract8\\pract8\\pract8\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4903D428-6D8A-4CA0-AE84-D68579DAC5D7}|Pract8\\Pract8.csproj|solutionrelative:pract8\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4903D428-6D8A-4CA0-AE84-D68579DAC5D7}|Pract8\\Pract8.csproj|c:\\users\\admin\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo\\pract8\\pract8\\pract8\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4903D428-6D8A-4CA0-AE84-D68579DAC5D7}|Pract8\\Pract8.csproj|solutionrelative:pract8\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4903D428-6D8A-4CA0-AE84-D68579DAC5D7}|Pract8\\Pract8.csproj|c:\\users\\admin\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo\\pract8\\pract8\\pract8\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4903D428-6D8A-4CA0-AE84-D68579DAC5D7}|Pract8\\Pract8.csproj|solutionrelative:pract8\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract8\\Pract8\\Pract8\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Pract8\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract8\\Pract8\\Pract8\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Pract8\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAADwvzcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T09:50:55.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract8\\Pract8\\Pract8\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Pract8\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract8\\Pract8\\Pract8\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Pract8\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowEoAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T09:33:28.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract8\\Pract8\\Pract8\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Pract8\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract8\\Pract8\\Pract8\\Models\\Task.cs",
+              "RelativeToolTip": "Pract8\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:59:13.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract8\\Pract8\\Pract8\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Pract8\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract8\\Pract8\\Pract8\\Models\\User.cs",
+              "RelativeToolTip": "Pract8\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:59:10.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract8\\Pract8\\Pract8\\Models\\TokenDBContext.cs",
+              "RelativeDocumentMoniker": "Pract8\\Models\\TokenDBContext.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract8\\Pract8\\Pract8\\Models\\TokenDBContext.cs",
+              "RelativeToolTip": "Pract8\\Models\\TokenDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:58:40.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract8\\Pract8\\Pract8\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Pract8\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract8\\Pract8\\Pract8\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Pract8\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:11:21.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract8\\Pract8\\Pract8\\Program.cs",
+              "RelativeDocumentMoniker": "Pract8\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract8\\Pract8\\Pract8\\Program.cs",
+              "RelativeToolTip": "Pract8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T08:11:14.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
